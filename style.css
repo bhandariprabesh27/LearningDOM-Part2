@@ -8,3 +8,8 @@ body {
   height: 100%;
   width: 100%;
 }
+.makeitred {
+  color: red;
+  font-family: "montserrat-bold";
+  font-size: 18px;
+}
